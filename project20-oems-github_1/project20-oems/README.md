@@ -108,15 +108,11 @@ python main.py
 
 ---
 
-## Demo Video
 
-[YouTube Link — add here]
-
----
 
 ## Team Members
 
-| Name | Student ID |
-|------|-----------|
-| [Name 1] | [MSSV] |
-| [Name 2] | [MSSV] |
+| Name       | Student ID |
+|----------------|-----------|
+| Đào Trung Phúc | 11247215 |
+
